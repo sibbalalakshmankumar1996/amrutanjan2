@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?6fqali');
+  src:  url('fonts/icomoon.eot?6fqali#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?6fqali') format('truetype'),
+    url('fonts/icomoon.woff?6fqali') format('woff'),
+    url('fonts/icomoon.svg?6fqali#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icons8-search-1:before {
+  content: "\e903";
+}
+.icon-shopping-cart-10902:before {
+  content: "\e908";
+}
+.icon-like:before {
+  content: "\e909";
+  color: #525252;
+}
+.icon-linkedin-logo:before {
+  content: "\e90a";
+}
+.icon-twitter:before {
+  content: "\e90b";
+}
+.icon-facebook-letter-logo:before {
+  content: "\e90c";
+}
+.icon-Icon-material-location-on:before {
+  content: "\e90d";
+  color: #009c50;
+}
+.icon-Icon-awesome-phone-alt:before {
+  content: "\e90e";
+  color: #009c50;
+}
+.icon-Icon-awesome-mobile-alt:before {
+  content: "\e90f";
+  color: #009c50;
+}
+.icon-Icon-awesome-fax:before {
+  content: "\e911";
+  color: #009c50;
+}
+.icon-Icon-ionic-md-mail:before {
+  content: "\e912";
+  color: #009c50;
+}
+.icon-Icon-awesome-user-alt:before {
+  content: "\e913";
+  color: #009c50;
+}
+.icon-menu:before {
+  content: "\e901";
+  color: #767676;
+}
+.icon-light-menu:before {
+  content: "\e900";
+  color: #e3e3e3;
+}
+.icon-Polygon-3:before {
+  content: "\e902";
+  color: #589831;
+}
+.icon-Polygon-4 .path1:before {
+  content: "\e904";
+  color: rgb(255, 255, 255);
+}
+.icon-Polygon-4 .path2:before {
+  content: "\e906";
+  margin-left: -1.0498046875em;
+  color: rgb(88, 152, 49);
+}
+.icon-twitter1:before {
+  content: "\e910";
+  color: #8695a8;
+}
+.icon-youtube:before {
+  content: "\e905";
+  color: #8695a8;
+}
+.icon-facebook:before {
+  content: "\e907";
+  color: #8695a8;
+}
